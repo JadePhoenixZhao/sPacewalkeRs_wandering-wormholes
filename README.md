@@ -1,4 +1,4 @@
-DOI: 10.5072/zenodo.491796
+
 [![DOI](https://sandbox.zenodo.org/badge/1217592768.svg)](https://handle.test.datacite.org/10.5072/zenodo.491795)
 # NASA Spacewalk Analysis — Reproducible Manuscript
 
