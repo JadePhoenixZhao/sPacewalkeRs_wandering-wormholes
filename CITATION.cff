@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: something
+message: >-
+  If you use this software, please cite it using the  
+  metadata from this file.
+type: software
+authors:
+  - given-names: Yufeng
+    family-names: Zhao
+    email: yufeng@uow.edu.au
+    name-particle: Yufeng
+identifiers:
+  - type: doi
+    value: 10.5072/zenodo.491796
+    description: v1.0.0
+license: 0BSD
+date-released: '2026-04-22'
